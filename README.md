@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-mg&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-mg&layout=compact"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-mg)
 <h3 align="center"> Tech Stack </h3>
 <br>
 <div align="center">
